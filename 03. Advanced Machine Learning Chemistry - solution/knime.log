@@ -1,0 +1,170 @@
+2017-02-27 12:35:14,647 : DEBUG : ModalContext : AccuracyScorerNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,663 : DEBUG : ModalContext : ROCNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,667 : DEBUG : ModalContext : DecTreePredictorNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,670 : DEBUG : ModalContext : PartitionNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,672 : DEBUG : ModalContext : PartitionNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,676 : DEBUG : ModalContext : RegressionPredictorNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,678 : DEBUG : ModalContext : NumericScorerNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,682 : DEBUG : ModalContext : NewEntropyNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,685 : DEBUG : ModalContext : RowFilterNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,706 : DEBUG : ModalContext : OsmMapViewNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,713 : DEBUG : ModalContext : ColorManager2NodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,716 : DEBUG : ModalContext : DecisionTreeLearnerNodeFactory3 : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,735 : DEBUG : ModalContext : ROCCurveNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,745 : DEBUG : ModalContext : LinReg2LearnerNodeFactory2 : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,748 : DEBUG : ModalContext : NewEntropyNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,751 : DEBUG : ModalContext : ReadTableNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,754 : DEBUG : ModalContext : NewEntropyNodeFactory : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,759 : DEBUG : ModalContext : ClusterNodeFactory2 : 04. Data Mining - solution : 11 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,766 : DEBUG : ModalContext : NumberToStringNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,769 : DEBUG : ModalContext : FilterColumnNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,772 : DEBUG : ModalContext : CellReplacerNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,774 : DEBUG : ModalContext : AppendedRowsNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,777 : DEBUG : ModalContext : Joiner2NodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,779 : DEBUG : ModalContext : Joiner2NodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,784 : DEBUG : ModalContext : Joiner2NodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,786 : DEBUG : ModalContext : RenameNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,789 : DEBUG : ModalContext : FilterColumnNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,791 : DEBUG : ModalContext : RenameNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,794 : DEBUG : ModalContext : GroupByNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,796 : DEBUG : ModalContext : FileReaderNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,798 : DEBUG : ModalContext : ReadTableNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,801 : DEBUG : ModalContext : FileReaderNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,803 : DEBUG : ModalContext : FileReaderNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,807 : DEBUG : ModalContext : SQLiteConnectorNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,810 : DEBUG : ModalContext : DBReaderNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:14,812 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.DoubleMeanMissingCellHandlerFactory
+2017-02-27 12:35:14,813 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.DoubleMeanMissingCellHandlerFactory
+2017-02-27 12:35:14,875 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.DoubleMovingAverageMissingCellHandlerFactory
+2017-02-27 12:35:14,877 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.DoubleMovingAverageMissingCellHandlerFactory
+2017-02-27 12:35:14,913 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedDoubleValueMissingCellHandlerFactory
+2017-02-27 12:35:14,915 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedDoubleValueMissingCellHandlerFactory
+2017-02-27 12:35:14,948 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MaxMissingCellHandlerFactory
+2017-02-27 12:35:14,950 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MaxMissingCellHandlerFactory
+2017-02-27 12:35:14,994 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.IntegerMeanMissingCellHandlerFactory
+2017-02-27 12:35:14,996 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.IntegerMeanMissingCellHandlerFactory
+2017-02-27 12:35:15,034 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedIntegerValueMissingCellHandlerFactory
+2017-02-27 12:35:15,037 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedIntegerValueMissingCellHandlerFactory
+2017-02-27 12:35:15,077 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MinMissingCellHandlerFactory
+2017-02-27 12:35:15,079 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MinMissingCellHandlerFactory
+2017-02-27 12:35:15,117 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MostFrequentValueMissingCellHandlerFactory
+2017-02-27 12:35:15,119 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MostFrequentValueMissingCellHandlerFactory
+2017-02-27 12:35:15,154 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.NextMissingCellHandlerFactory
+2017-02-27 12:35:15,156 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.NextMissingCellHandlerFactory
+2017-02-27 12:35:15,201 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.RemoveRowMissingCellHandlerFactory
+2017-02-27 12:35:15,203 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.RemoveRowMissingCellHandlerFactory
+2017-02-27 12:35:15,236 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MedianNumberMissingCellHandlerFactory
+2017-02-27 12:35:15,238 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MedianNumberMissingCellHandlerFactory
+2017-02-27 12:35:15,269 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.PreviousMissingCellHandlerFactory
+2017-02-27 12:35:15,270 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.PreviousMissingCellHandlerFactory
+2017-02-27 12:35:15,300 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.LinearInterpolationMissingCellHandlerFactory
+2017-02-27 12:35:15,302 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.LinearInterpolationMissingCellHandlerFactory
+2017-02-27 12:35:15,329 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedStringValueMissingCellHandlerFactory
+2017-02-27 12:35:15,330 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedStringValueMissingCellHandlerFactory
+2017-02-27 12:35:15,362 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.AverageInterpolationMissingCellHandlerFactory
+2017-02-27 12:35:15,363 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.AverageInterpolationMissingCellHandlerFactory
+2017-02-27 12:35:15,392 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedLongValueMissingCellHandlerFactory
+2017-02-27 12:35:15,421 : DEBUG : ModalContext : MissingCellHandlerDescriptionFactory : Fully Joined Data : 11:243 : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedLongValueMissingCellHandlerFactory
+2017-02-27 12:35:15,601 : DEBUG : ModalContext : MissingValueHandlerNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:15,605 : DEBUG : ModalContext : XLSReaderNodeFactory : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:15,612 : DEBUG : ModalContext : PMMLReaderNodeFactory2 : Fully Joined Data : 11:243 : Factory is already initialized. Nothing to do.
+2017-02-27 12:35:15,620 : DEBUG : ModalContext : File Reader : File Reader : 11:243:233 : Configure succeeded. (File Reader)
+2017-02-27 12:35:15,623 : DEBUG : ModalContext : Table Reader : Table Reader : 11:243:234 : Configure succeeded. (Table Reader)
+2017-02-27 12:35:15,630 : DEBUG : ModalContext : File Reader : File Reader : 11:243:235 : Configure succeeded. (File Reader)
+2017-02-27 12:35:15,633 : DEBUG : ModalContext : File Reader : File Reader : 11:243:237 : Configure succeeded. (File Reader)
+2017-02-27 12:35:15,638 : DEBUG : ModalContext : SQLite Connector : SQLite Connector : 11:243:238 : Configure succeeded. (SQLite Connector)
+2017-02-27 12:35:15,639 : DEBUG : ModalContext : Excel Reader (XLS) : Excel Reader (XLS) : 11:243:241 : Configure succeeded. (Excel Reader (XLS))
+2017-02-27 12:35:16,077 : INFO  : ModalContext : PMMLImport : PMML Reader : 11:243:242 : KNIME produced PMML 3.x/4.0/4.1 updated to PMML 4.2.
+2017-02-27 12:35:16,112 : DEBUG : ModalContext : PMML Reader : PMML Reader : 11:243:242 : Configure succeeded. (PMML Reader)
+2017-02-27 12:35:16,113 : DEBUG : ModalContext : Column Filter : Column Filter : 11:243:152 : Configure succeeded. (Column Filter)
+2017-02-27 12:35:16,115 : DEBUG : ModalContext : Cell Replacer : Cell Replacer : 11:243:129 : Configure succeeded. (Cell Replacer)
+2017-02-27 12:35:16,116 : DEBUG : ModalContext : Column Rename : Column Rename : 11:243:156 : Configure succeeded. (Column Rename)
+2017-02-27 12:35:16,118 : DEBUG : ModalContext : Database Reader : Database Reader : 11:243:239 : Configure succeeded. (Database Reader)
+2017-02-27 12:35:16,119 : DEBUG : ModalContext : Joiner : Joiner : 11:243:144 : Configure succeeded. (Joiner)
+2017-02-27 12:35:16,125 : DEBUG : ModalContext : Table Reader : Table Reader : 11:290 : Configure succeeded. (Table Reader)
+2017-02-27 12:35:16,129 : DEBUG : ModalContext : Row Filter : Row Filter : 11:274 : Configure succeeded. (Row Filter)
+2017-02-27 12:35:16,132 : DEBUG : ModalContext : k-Means : k-Means : 11:292 : Configure succeeded. (k-Means)
+2017-02-27 12:35:16,139 : DEBUG : ModalContext : Entropy Scorer : Entropy Scorer : 11:291 : Configure succeeded. (Entropy Scorer)
+2017-02-27 12:35:16,140 : DEBUG : ModalContext : Entropy Scorer : Entropy Scorer : 11:269 : Configure succeeded. (Entropy Scorer)
+2017-02-27 12:35:16,140 : DEBUG : ModalContext : Color Manager : Color Manager : 11:276 : Configure succeeded. (Color Manager)
+2017-02-27 12:35:16,141 : DEBUG : ModalContext : Entropy Scorer : Entropy Scorer : 11:284 : Configure succeeded. (Entropy Scorer)
+2017-02-27 12:35:16,144 : DEBUG : ModalContext : OSM Map View : OSM Map View : 11:275 : Configure succeeded. (OSM Map View)
+2017-02-27 12:52:14,758 : DEBUG : main : ProjectWorkflowMap : 04. Data Mining - solution : 11 : Removing "file:/C:/Users/iris.adae/knime-workspace_testing/KNIMEUserTraining/solutions/04.%20Data%20Mining%20-%20solution/" from project map (6 remaining)
+2017-02-27 12:52:14,759 : DEBUG : main : WorkflowManager : 04. Data Mining - solution : 11 : Removing project "04. Data Mining - solution 11"
+2017-02-27 12:52:14,765 : DEBUG : main : OsmMapViewNodeModel : OSM Map View : 11:275 : Removing all (0) views from model.
+2017-02-27 12:52:14,765 : DEBUG : main : OSM Map View : OSM Map View : 11:275 : clean output ports.
+2017-02-27 12:52:14,766 : DEBUG : main : ROCNodeModel : ROC Curve : 11:247 : Removing all (0) views from model.
+2017-02-27 12:52:14,767 : DEBUG : main : ROC Curve : ROC Curve : 11:247 : clean output ports.
+2017-02-27 12:52:14,768 : DEBUG : main : ROCCurveNodeModel : JavaScript ROC Curve : 11:278 : Removing all (0) views from model.
+2017-02-27 12:52:14,768 : DEBUG : main : JavaScript ROC Curve : JavaScript ROC Curve : 11:278 : clean output ports.
+2017-02-27 12:52:14,769 : DEBUG : main : AccuracyScorerNodeModel : Scorer : 11:245 : Removing all (0) views from model.
+2017-02-27 12:52:14,769 : DEBUG : main : Scorer : Scorer : 11:245 : clean output ports.
+2017-02-27 12:52:14,770 : DEBUG : main : EntropyNodeModel : Entropy Scorer : 11:284 : Removing all (0) views from model.
+2017-02-27 12:52:14,771 : DEBUG : main : Entropy Scorer : Entropy Scorer : 11:284 : clean output ports.
+2017-02-27 12:52:14,771 : DEBUG : main : ColorManager2NodeModel : Color Manager : 11:276 : Removing all (0) views from model.
+2017-02-27 12:52:14,772 : DEBUG : main : Color Manager : Color Manager : 11:276 : clean output ports.
+2017-02-27 12:52:14,772 : DEBUG : main : EntropyNodeModel : Entropy Scorer : 11:269 : Removing all (0) views from model.
+2017-02-27 12:52:14,773 : DEBUG : main : Entropy Scorer : Entropy Scorer : 11:269 : clean output ports.
+2017-02-27 12:52:14,774 : DEBUG : main : EntropyNodeModel : Entropy Scorer : 11:291 : Removing all (0) views from model.
+2017-02-27 12:52:14,774 : DEBUG : main : Entropy Scorer : Entropy Scorer : 11:291 : clean output ports.
+2017-02-27 12:52:14,774 : DEBUG : main : NumericScorerNodeModel : Numeric Scorer : 11:262 : Removing all (0) views from model.
+2017-02-27 12:52:14,775 : DEBUG : main : Numeric Scorer : Numeric Scorer : 11:262 : clean output ports.
+2017-02-27 12:52:14,776 : DEBUG : main : DecTreePredictorNodeModel : Decision Tree Predictor : 11:248 : Removing all (0) views from model.
+2017-02-27 12:52:14,779 : DEBUG : main : Decision Tree Predictor : Decision Tree Predictor : 11:248 : clean output ports.
+2017-02-27 12:52:14,780 : DEBUG : main : ClusterNodeModel : k-Means : 11:292 : Removing all (0) views from model.
+2017-02-27 12:52:14,781 : DEBUG : main : k-Means : k-Means : 11:292 : clean output ports.
+2017-02-27 12:52:14,781 : DEBUG : main : RegressionPredictorNodeModel : Regression Predictor : 11:257 : Removing all (0) views from model.
+2017-02-27 12:52:14,782 : DEBUG : main : Regression Predictor : Regression Predictor : 11:257 : clean output ports.
+2017-02-27 12:52:14,783 : DEBUG : main : LinReg2LearnerNodeModel : Linear Regression Learner : 11:279 : Removing all (0) views from model.
+2017-02-27 12:52:14,784 : DEBUG : main : Linear Regression Learner : Linear Regression Learner : 11:279 : clean output ports.
+2017-02-27 12:52:14,784 : DEBUG : main : DecisionTreeLearnerNodeModel2 : Decision Tree Learner : 11:277 : Removing all (0) views from model.
+2017-02-27 12:52:14,785 : DEBUG : main : Decision Tree Learner : Decision Tree Learner : 11:277 : clean output ports.
+2017-02-27 12:52:14,786 : DEBUG : main : RowFilterNodeModel : Row Filter : 11:274 : Removing all (0) views from model.
+2017-02-27 12:52:14,788 : DEBUG : main : Row Filter : Row Filter : 11:274 : clean output ports.
+2017-02-27 12:52:14,788 : DEBUG : main : PartitionNodeModel : Partitioning : 11:254 : Removing all (0) views from model.
+2017-02-27 12:52:14,789 : DEBUG : main : Partitioning : Partitioning : 11:254 : clean output ports.
+2017-02-27 12:52:14,790 : DEBUG : main : PartitionNodeModel : Partitioning : 11:249 : Removing all (0) views from model.
+2017-02-27 12:52:14,791 : DEBUG : main : Partitioning : Partitioning : 11:249 : clean output ports.
+2017-02-27 12:52:14,792 : DEBUG : main : ReadTableNodeModel : Table Reader : 11:290 : Removing all (0) views from model.
+2017-02-27 12:52:14,793 : DEBUG : main : Table Reader : Table Reader : 11:290 : clean output ports.
+2017-02-27 12:52:14,795 : DEBUG : main : FilterColumnNodeModel : Column Filter : 11:243:3 : Removing all (0) views from model.
+2017-02-27 12:52:14,796 : DEBUG : main : Column Filter : Column Filter : 11:243:3 : clean output ports.
+2017-02-27 12:52:14,797 : DEBUG : main : MissingValueHandlerNodeModel : Missing Value : 11:243:240 : Removing all (0) views from model.
+2017-02-27 12:52:14,797 : DEBUG : main : Missing Value : Missing Value : 11:243:240 : clean output ports.
+2017-02-27 12:52:14,798 : DEBUG : main : NumberToStringNodeModel : Number To String : 11:243:2 : Removing all (0) views from model.
+2017-02-27 12:52:14,800 : DEBUG : main : Number To String : Number To String : 11:243:2 : clean output ports.
+2017-02-27 12:52:14,801 : DEBUG : main : GroupByNodeModel : GroupBy : 11:243:231 : Removing all (0) views from model.
+2017-02-27 12:52:14,803 : DEBUG : main : GroupBy : GroupBy : 11:243:231 : clean output ports.
+2017-02-27 12:52:14,804 : DEBUG : main : Joiner2NodeModel : Joiner : 11:243:146 : Removing all (0) views from model.
+2017-02-27 12:52:14,806 : DEBUG : main : Joiner : Joiner : 11:243:146 : clean output ports.
+2017-02-27 12:52:14,807 : DEBUG : main : Joiner2NodeModel : Joiner : 11:243:145 : Removing all (0) views from model.
+2017-02-27 12:52:14,808 : DEBUG : main : Joiner : Joiner : 11:243:145 : clean output ports.
+2017-02-27 12:52:14,809 : DEBUG : main : AppendedRowsNodeModel : Concatenate : 11:243:143 : Removing all (0) views from model.
+2017-02-27 12:52:14,810 : DEBUG : main : Concatenate : Concatenate : 11:243:143 : clean output ports.
+2017-02-27 12:52:14,812 : DEBUG : main : RenameNodeModel : Column Rename : 11:243:150 : Removing all (0) views from model.
+2017-02-27 12:52:14,813 : DEBUG : main : Column Rename : Column Rename : 11:243:150 : clean output ports.
+2017-02-27 12:52:14,813 : DEBUG : main : Joiner2NodeModel : Joiner : 11:243:144 : Removing all (0) views from model.
+2017-02-27 12:52:14,815 : DEBUG : main : Joiner : Joiner : 11:243:144 : clean output ports.
+2017-02-27 12:52:14,819 : DEBUG : main : DBReaderNodeModel : Database Reader : 11:243:239 : Removing all (0) views from model.
+2017-02-27 12:52:14,821 : DEBUG : main : Database Reader : Database Reader : 11:243:239 : clean output ports.
+2017-02-27 12:52:14,822 : DEBUG : main : RenameNodeModel : Column Rename : 11:243:156 : Removing all (0) views from model.
+2017-02-27 12:52:14,824 : DEBUG : main : Column Rename : Column Rename : 11:243:156 : clean output ports.
+2017-02-27 12:52:14,827 : DEBUG : main : CellReplacerNodeModel : Cell Replacer : 11:243:129 : Removing all (0) views from model.
+2017-02-27 12:52:14,829 : DEBUG : main : Cell Replacer : Cell Replacer : 11:243:129 : clean output ports.
+2017-02-27 12:52:14,830 : DEBUG : main : FilterColumnNodeModel : Column Filter : 11:243:152 : Removing all (0) views from model.
+2017-02-27 12:52:14,830 : DEBUG : main : Column Filter : Column Filter : 11:243:152 : clean output ports.
+2017-02-27 12:52:14,831 : DEBUG : main : PMMLReaderNodeModel : PMML Reader : 11:243:242 : Removing all (0) views from model.
+2017-02-27 12:52:14,831 : DEBUG : main : PMML Reader : PMML Reader : 11:243:242 : clean output ports.
+2017-02-27 12:52:14,832 : DEBUG : main : XLSReaderNodeModel : Excel Reader (XLS) : 11:243:241 : Removing all (0) views from model.
+2017-02-27 12:52:14,832 : DEBUG : main : Excel Reader (XLS) : Excel Reader (XLS) : 11:243:241 : clean output ports.
+2017-02-27 12:52:14,836 : DEBUG : main : SQLiteConnectorNodeModel : SQLite Connector : 11:243:238 : Removing all (0) views from model.
+2017-02-27 12:52:14,837 : DEBUG : main : SQLite Connector : SQLite Connector : 11:243:238 : clean output ports.
+2017-02-27 12:52:14,844 : DEBUG : main : FileReaderNodeModel : File Reader : 11:243:237 : Removing all (0) views from model.
+2017-02-27 12:52:14,847 : DEBUG : main : File Reader : File Reader : 11:243:237 : clean output ports.
+2017-02-27 12:52:14,854 : DEBUG : main : FileReaderNodeModel : File Reader : 11:243:235 : Removing all (0) views from model.
+2017-02-27 12:52:14,855 : DEBUG : main : File Reader : File Reader : 11:243:235 : clean output ports.
+2017-02-27 12:52:14,859 : DEBUG : main : ReadTableNodeModel : Table Reader : 11:243:234 : Removing all (0) views from model.
+2017-02-27 12:52:14,869 : DEBUG : main : Table Reader : Table Reader : 11:243:234 : clean output ports.
+2017-02-27 12:52:14,871 : DEBUG : main : FileReaderNodeModel : File Reader : 11:243:233 : Removing all (0) views from model.
+2017-02-27 12:52:14,873 : DEBUG : main : File Reader : File Reader : 11:243:233 : clean output ports.
+2017-02-27 12:52:14,877 : DEBUG : main : WorkflowManager : 04. Data Mining - solution : 11 : Project "04. Data Mining - solution 11" removed (7 remaining)

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?><KNIMEMetaInfo xmlns="http://www.knime.org/2.9/metainfo"><element xmlns="" form="text" name="Author">janinamothes</element><element xmlns="" form="date" name="Creation Date">1/0/1970/1:0:0 +01:00</element><element xmlns="" form="multiline" name="Comments">Advanced Machine Learning - Chemistry Solution
+
+Solution to the "Advanced Machine Learning Chemistry" exercise for the advanced Life Science User Training
+- Training a Random Forest model to predict a nominal target column
+- Evaluating the performance of a classification model
+- Optimizing parameters of the Random Forest model
+- Performing the classification multiple times in a cross validation loop
+
+
+
+
+VIDEO: Random Forest https://youtu.be/WvbIGdmXC-8
+VIDEO: Parameter Optimization for Prediction Models https://youtu.be/IlqepyIba6Y
+URL: Slides for KNIME Analytics Platform Course (L2-LS) https://www.knime.com/form/material-download-registration
+TAGS: machine learning,data mining,classification,prediction,model evaluation,scoring,ROC Curve,partitioning,education,life science,cross validation,hill climbing,stable model</element><element xmlns="" form="text" name="Last Uploaded" read-only="true">2021-02-02 09:31:19 +0100</element><element xmlns="" form="text " name="Last Edited" read-only="true">2021-01-28 14:18:21 +0100</element><nrOfElements xmlns="">5</nrOfElements></KNIMEMetaInfo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+    <met:element form="text" read-only="false" name="Author">kathrin</met:element>
+    <met:element form="date" read-only="false" name="Creation Date">16/3/2021/12:00:01 +02:00</met:element>
+    <met:element form="multiline" read-only="false" name="Comments">Building Sentiment Predictor - BERT
+
+This workflow uses a Kaggle Dataset, including 14K customer tweets towards six US airlines (https://www.kaggle.com/crowdflower/twitter-airline-sentiment). Contributors annotated the valence of the tweets as positive, negative, and neutral. Once users are satisfied with the model evaluation, they should export the trained BERT model for deployment to classify non-annotated data. 
+
+If you use this workflow, please cite: 
+F. Villaroel Ordenes &amp; R. Silipo, “Machine learning for marketing on the KNIME Hub: The development of a live repository for marketing applications”, Journal of Business Research 137(1):393-410, DOI: 10.1016/j.jbusres.2021.08.036.
+
+
+
+TAGS: sentiment analysis,BERT,supervised learning,NLP,Tweet,Twitter</met:element>
+</met:KNIMEMetaInfo>
